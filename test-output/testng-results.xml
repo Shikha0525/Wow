@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5701" started-at="2018-07-16T07:12:01Z" finished-at="2018-07-16T07:12:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5701" started-at="2018-07-16T07:12:01Z" finished-at="2018-07-16T07:12:07Z">
+      <class name="com.qait.ReqRes.SeleniumGrid.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="beforeTest" is-config="true" duration-ms="742" started-at="2018-07-16T12:42:01Z" finished-at="2018-07-16T12:42:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test01HomePage()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test01HomePage" duration-ms="3008" started-at="2018-07-16T12:42:02Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01HomePage -->
+        <test-method status="PASS" signature="test02ListUsers()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test02ListUsers" duration-ms="177" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02ListUsers -->
+        <test-method status="PASS" signature="test03SingleUsers()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test03SingleUsers" duration-ms="132" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03SingleUsers -->
+        <test-method status="PASS" signature="test04SingleUserNotFound()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test04SingleUserNotFound" duration-ms="132" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04SingleUserNotFound -->
+        <test-method status="PASS" signature="test05ListUser()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test05ListUser" duration-ms="109" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05ListUser -->
+        <test-method status="PASS" signature="test06SingleUser()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test06SingleUser" duration-ms="112" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06SingleUser -->
+        <test-method status="PASS" signature="test07SingleResourceNotfound()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test07SingleResourceNotfound" duration-ms="133" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07SingleResourceNotfound -->
+        <test-method status="PASS" signature="test08Post()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test08Post" duration-ms="127" started-at="2018-07-16T12:42:05Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test08Post -->
+        <test-method status="PASS" signature="test09Put()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test09Put" duration-ms="131" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test09Put -->
+        <test-method status="PASS" signature="test10Patch()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test10Patch" duration-ms="127" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10Patch -->
+        <test-method status="PASS" signature="test11Delete()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test11Delete" duration-ms="129" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11Delete -->
+        <test-method status="PASS" signature="test12PostRegisterSuccessful()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test12PostRegisterSuccessful" duration-ms="120" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12PostRegisterSuccessful -->
+        <test-method status="PASS" signature="test13PostRegisterUnSuccessful()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test13PostRegisterUnSuccessful" duration-ms="114" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13PostRegisterUnSuccessful -->
+        <test-method status="PASS" signature="test14LoginSuccessful()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test14LoginSuccessful" duration-ms="125" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14LoginSuccessful -->
+        <test-method status="PASS" signature="test15LoginUnSuccessful()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test15LoginUnSuccessful" duration-ms="129" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15LoginUnSuccessful -->
+        <test-method status="PASS" signature="test16Delayed()[pri:0, instance:com.qait.ReqRes.SeleniumGrid.NewTest@18be83e4]" name="test16Delayed" duration-ms="131" started-at="2018-07-16T12:42:06Z" finished-at="2018-07-16T12:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16Delayed -->
+      </class> <!-- com.qait.ReqRes.SeleniumGrid.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
